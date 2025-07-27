@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abhinavkr26104/leetcode_me/tree/master/0820-find-eventual-safe-states) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abhinavkr26104/leetcode_me/tree/master/0820-find-eventual-safe-states) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
