@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhinavkr26104/leetcode_me/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinavkr26104/leetcode_me/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhinavkr26104/leetcode_me/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhinavkr26104/leetcode_me/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinavkr26104/leetcode_me/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhinavkr26104/leetcode_me/tree/master/0820-find-eventual-safe-states) |
@@ -89,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhinavkr26104/leetcode_me/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinavkr26104/leetcode_me/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhinavkr26104/leetcode_me/tree/master/0820-find-eventual-safe-states) |
@@ -131,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/abhinavkr26104/leetcode_me/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
