@@ -1,15 +1,17 @@
 class Solution {
-    public int maximum69Number(int num) {
-        int n = 0;
-        int c6 = 0;
-        for (char c : String.valueOf(Math.abs(num)).toCharArray()) {
-            if (c == '6' && c6 == 0) {
-                n = n * 10 + 9;
-                c6 = 1;
-            } else {
-                n = n * 10 + (c - '0');
+    public int maximum69Number (int num) {
+        // Convert number to a char array
+        char[] digits = String.valueOf(num).toCharArray();
+        
+        // Traverse from left to right and replace the first '6' with '9'
+        for (int i = 0; i < digits.length; i++) {
+            if (digits[i] == '6') {
+                digits[i] = '9';
+                break; // only change once
             }
         }
-        return n;
+        
+        // Convert back to integer
+        return Integer.parseInt(new String(digits));
     }
 }
