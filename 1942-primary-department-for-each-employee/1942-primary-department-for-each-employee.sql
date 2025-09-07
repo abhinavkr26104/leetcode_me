@@ -6,5 +6,5 @@ WHERE primary_flag = 'Y'
        SELECT employee_id
        FROM Employee
        GROUP BY employee_id
-       HAVING COUNT(*) = 1
+       HAVING COUNT(department_id) = 1
    );
