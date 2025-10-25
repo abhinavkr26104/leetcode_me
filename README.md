@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
+| [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhinavkr26104/leetcode_me/tree/master/0010-regular-expression-matching) |
+| [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinavkr26104/leetcode_me/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
