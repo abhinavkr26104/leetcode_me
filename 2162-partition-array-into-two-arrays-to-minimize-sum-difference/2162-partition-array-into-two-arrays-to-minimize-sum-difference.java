@@ -1,211 +1,141 @@
 class Solution {
     public int minimumDifference(int[] nums) {
+        int n = nums.length;
+        int[][] diff1 = generate(Arrays.copyOfRange(nums, 0, n / 2));
+        int[][] diff2 = generate(Arrays.copyOfRange(nums, n / 2, n));
 
-       /*
-            Problem Statement:
-            -----------------
-            We are given an array of length 2n (where n ∈ [1, 15]).
-            Each number in the array lies within the range [-1e7, 1e7].
+        int min = Integer.MAX_VALUE;
+        for (int len = 0; len <= n / 2; len++) {
+            int[] left = diff1[len];
+            int[] right = diff2[n/2 - len];
 
-            What we need to do:
-            -------------------
-            - Split the array into two partitions of equal size (n elements each).
-            - Our goal is to minimize the difference between the sums of the two partitions.
-            - In mathematical terms, we want to minimize:
-                    | sum(partition1) - sum(partition2) |
+            int l = 0;
+            int r = diff2[n/2 - len].length - 1;
 
-            Initial Thoughts (Brute Force):
-            -------------------------------
-            - One naive approach is to directly try every possible way of choosing n elements out of 2n.
-            - That means we would need to evaluate 2nCn subsets.
-            - Example: If n = 15, then we must compute 30C15 ≈ 155 million (~10^8) possibilities.
-            - Clearly, this number is far too large to handle within reasonable time constraints.
-            - Hence, brute force is NOT possible here.
-
-            Key Observations:
-            -----------------
-            1. The total sum of all elements is fixed.
-            So, if we know the sum of one chosen partition, the other partition's sum is automatically determined.
-            This means we don’t need to explicitly compute both partitions separately.
-
-            2. What we are really minimizing is:
-                    | totalSum - 2 * chosenSubsetSum |
-            Because if one subset has sum = chosenSubsetSum,
-            then the other subset’s sum = totalSum - chosenSubsetSum.
-
-            3. This leads us to the idea that we only need to focus on finding a subset sum that is
-            as close as possible to totalSum / 2.
-
-            Refined Approach: Meet-in-the-Middle
-            ------------------------------------
-            - Since n ≤ 15, we can split the array into two halves of size n each.
-            - Each half has at most 2^15 = 32768 subsets → small enough to enumerate exhaustively.
-            - For each half:
-                → Generate all possible subset sums.
-                → Additionally, group them according to the number of elements chosen
-                (because finally we must choose exactly n elements in total).
-
-            - After this preprocessing, we proceed as follows:
-                1. For each possible count of elements chosen from the left half (say k),
-                we must complement it with (n - k) elements chosen from the right half.
-                2. For every subset sum S1 from the left half with k elements,
-                look into the right half's subset sums of size (n - k).
-                3. Our target is to find the S2 such that (S1 + S2) is as close as possible to totalSum / 2.
-                Because this minimizes the final difference.
-
-            - To achieve this efficiently, we sort the subset sums of each group from the right half.
-            - Then, for each S1 from the left, we perform binary search on the right group's sorted sums
-            to find the closest S2.
-            - With this, we can calculate:
-                    | totalSum - 2 * (S1 + S2) |
-            and keep track of the global minimum.
-
-            Complexity Analysis:
-            --------------------
-            Subset Generation:
-                - Each half has 2^(n/2) subsets, and for each subset we may process up to n elements.
-                - This gives O(n * 2^(n/2)) time.
-
-            Sorting:
-                - We sort each group of subset sums.
-                - Sorting all groups together is bounded by O(2^(n/2) * log(2^(n/2))) ≈ O(2^(n/2) * n).
-
-            Binary Search:
-                - For every subset sum on the left (≈ 2^(n/2)), we perform binary search on the right sums.
-                - This gives O(2^(n/2) * log(2^(n/2))).
-
-            Overall Time Complexity:
-                - O(n * 2^(n/2)) + O(2^(n/2) * log(2^(n/2)))
-                - For n = 15, this is well within computational limits.
-
-            Space Complexity:
-            -----------------
-            - Each half stores up to 2^(n/2) subset sums.
-            - Thus, total space = O(2^(n/2)), which is feasible.
-        */
-
-
-        int n = nums.length / 2 ;
-
-        List<List<Integer>> leftSide = calculateSubsetSum(0, n - 1, nums, n) ;
-        List<List<Integer>> rightSide = calculateSubsetSum(n, 2 * n - 1, nums, n) ; 
-
-        int totalSum = 0 ;
-        for (int num : nums) totalSum += num ;
-
-        int halfSum = totalSum / 2 ;
-
-        int res = Integer.MAX_VALUE ;
-
-        for (int i = 0 ; i <= n ; i ++) 
-        {
-            for (int S1 : leftSide.get(i)) 
-            {
-                int target = halfSum - S1 ;
-
-                int S2 = binary(rightSide.get(n - i), target) ;
-
-                int sum = S1 + S2 ;
-
-                res = Math.min(res, Math.abs(2 * sum - totalSum)) ;
+            while (l < left.length && r >= 0) {
+                // arrays are already sorted so we move one pointer at a time to make the diff
+                // closer to 0
+                int diff = left[l] + right[r];
+                min = Math.min(min, Math.abs(diff));
+                if (diff < 0)
+                    l++;
+                else if (diff > 0)
+                    r--;
+                else
+                    return 0;
             }
         }
 
-        return res ;
+        return min;
     }
 
-    
-    List<List<Integer>> calculateSubsetSum(int left, int right, int[] nums, int n) 
-    {
-        List<List<Integer>> res = new ArrayList<>() ;
-        for (int i = 0 ; i <= n ; i ++) res.add(new ArrayList<>()) ;
+    private static int[][] generate(int[] nums) {
+        int n = nums.length;
+        int m = 1 << n;
 
-        int len = right - left + 1 ;
+        int total = 0;
+        for (int num : nums)
+            total += num;
 
-        int total = 1 << len ;
+        for (int i = 0; i < n; i++)
+            nums[i] <<= 1;
 
-        for (int mask = 0 ; mask < total ; mask ++) 
-        {
-            int sum = 0 ;
+        int[] sums = new int[m];
+        sums[0] -= total;
 
-            int bits = 0 ;
-
-            for (int j = 0 ; j < len ; j ++) 
-            {
-                if ((mask & (1 << j)) != 0) 
-                {
-                    sum += nums[left + j] ;
-                    bits++ ;
-                }
-            }
-            res.get(bits).add(sum);
+        for (int i = 0, maxTo = 1; i < n; i++, maxTo <<= 1) {
+            int num = nums[i];
+            for (int from = 0, to = maxTo; from < maxTo; from++, to++)
+                sums[to] = sums[from] + num;
         }
 
-        for (int i = 0 ; i <= n ; i ++) Collections.sort(res.get(i)) ;
+        int[][] ans = new int[n + 1][];
+        int[] pos = new int[n + 1];
 
-        return res ; 
-    }
-
-    int binary(List<Integer> list, int target) 
-    {
-        Integer r1 = binaryUp(list, target) ;
-
-        Integer r2 = binaryDown(list, target); 
-
-        if (r1 == null) return r2 ;
-        if (r2 == null) return r1 ;
-
-        return Math.abs(target - r1) > Math.abs(target - r2) ? r2 : r1;
-    }
-
-    Integer binaryUp(List<Integer> list, int target) 
-    {
-        int low = 0 ;
-
-        int high = list.size() - 1 ;
-
-        Integer ans = null ;
-
-        while (low <= high) 
-        {
-            int mid = low + (high - low) / 2 ;
-
-            if (list.get(mid) >= target) 
-            {
-                ans = list.get(mid);
-                high = mid - 1;
-            } 
-            else 
-            {
-                low = mid + 1 ;
-            }
+        for (int i = 0, binomial = 1; i <= n; i++) {
+            ans[i] = new int[binomial];
+            binomial = binomial * (n - i) / (i + 1);
         }
-        return ans ;
-    }
 
-    Integer binaryDown(List<Integer> list, int target) 
-    {
-        int low = 0 ;
-
-        int high = list.size() - 1 ;
-
-        Integer ans = null ;
-
-        while (low <= high) 
-        {
-            int mid = low + (high - low) / 2 ;
-
-            if (list.get(mid) <= target) 
-            {
-                ans = list.get(mid) ;
-                low = mid + 1 ;
-            } 
-            else 
-            {
-                high = mid - 1 ;
-            }
+        for (int key = 0; key < m; key++) {
+            int bits = Integer.bitCount(key);
+            ans[bits][pos[bits]++] = sums[key];
         }
+
+        for (int[] arr : ans)
+            Arrays.sort(arr);
+
+        return ans;
         
-        return ans ;
     }
 }
+
+
+
+// import java.util.*;
+
+// class Solution {
+//     public int minimumDifference(int[] nums) {
+//         int n = nums.length;
+//         int totalSum = Arrays.stream(nums).sum();
+//         int half = n / 2;
+
+//         // Split array into two halves
+//         int[] left = Arrays.copyOfRange(nums, 0, half);
+//         int[] right = Arrays.copyOfRange(nums, half, n);
+
+//         // Map: subset size -> list of subset sums
+//         List<List<Integer>> leftSums = new ArrayList<>();
+//         List<List<Integer>> rightSums = new ArrayList<>();
+
+//         for (int i = 0; i <= half; i++) {
+//             leftSums.add(new ArrayList<>());
+//         }
+//         for (int i = 0; i <= n - half; i++) {
+//             rightSums.add(new ArrayList<>());
+//         }
+
+//         // Generate all subset sums for left and right halves
+//         generateSums(left, 0, 0, 0, leftSums);
+//         generateSums(right, 0, 0, 0, rightSums);
+
+//         // Sort each list to apply binary search
+//         for (List<Integer> list : rightSums) Collections.sort(list);
+
+//         int ans = Integer.MAX_VALUE;
+
+//         // Try combining subsets of left and right halves
+//         for (int k = 0; k <= half; k++) {
+//             for (int sumLeft : leftSums.get(k)) {
+//                 List<Integer> rightList = rightSums.get(half - k);
+//                 int idx = Collections.binarySearch(rightList, totalSum / 2 - sumLeft);
+//                 if (idx < 0) idx = -idx - 1;
+
+//                 // Check closest sums
+//                 if (idx < rightList.size()) {
+//                     int sumRight = rightList.get(idx);
+//                     int current = Math.abs(totalSum - 2 * (sumLeft + sumRight));
+//                     ans = Math.min(ans, current);
+//                 }
+//                 if (idx > 0) {
+//                     int sumRight = rightList.get(idx - 1);
+//                     int current = Math.abs(totalSum - 2 * (sumLeft + sumRight));
+//                     ans = Math.min(ans, current);
+//                 }
+//             }
+//         }
+
+//         return ans;
+//     }
+
+//     private void generateSums(int[] nums, int index, int count, int sum, List<List<Integer>> sums) {
+//         if (index == nums.length) {
+//             sums.get(count).add(sum);
+//             return;
+//         }
+//         // Include current number
+//         generateSums(nums, index + 1, count + 1, sum + nums[index], sums);
+//         // Exclude current number
+//         generateSums(nums, index + 1, count, sum, sums);
+//     }
+// }
