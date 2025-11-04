@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinavkr26104/leetcode_me/tree/master/1917-maximum-average-pass-ratio) |
 ## Trie
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Depth-First Search
