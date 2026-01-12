@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhinavkr26104/leetcode_me/tree/master/0025-reverse-nodes-in-k-group) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/abhinavkr26104/leetcode_me/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/abhinavkr26104/leetcode_me/tree/master/0025-reverse-nodes-in-k-group) |
 | [1922-count-good-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/1922-count-good-numbers) |
 ## String
 |  |
