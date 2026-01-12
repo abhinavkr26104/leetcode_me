@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
 | [0744-network-delay-time](https://github.com/abhinavkr26104/leetcode_me/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinavkr26104/leetcode_me/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -312,9 +314,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
