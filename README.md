@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhinavkr26104/leetcode_me/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhinavkr26104/leetcode_me/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0120-triangle) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
