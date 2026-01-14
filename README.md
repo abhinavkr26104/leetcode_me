@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
