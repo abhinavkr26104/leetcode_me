@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/abhinavkr26104/leetcode_me/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 ## Breadth-First Search
