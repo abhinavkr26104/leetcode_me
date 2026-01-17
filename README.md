@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhinavkr26104/leetcode_me/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhinavkr26104/leetcode_me/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0060-permutation-sequence) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/1448-maximum-69-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/abhinavkr26104/leetcode_me/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhinavkr26104/leetcode_me/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0060-permutation-sequence) |
 | [1922-count-good-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/1922-count-good-numbers) |
 ## String
 |  |
