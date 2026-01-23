@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0065-valid-number) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
