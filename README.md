@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0416-partition-equal-subset-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhinavkr26104/leetcode_me/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -358,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
