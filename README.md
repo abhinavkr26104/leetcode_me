@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinavkr26104/leetcode_me/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhinavkr26104/leetcode_me/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhinavkr26104/leetcode_me/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
@@ -348,11 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavkr26104/leetcode_me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavkr26104/leetcode_me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
