@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhinavkr26104/leetcode_me/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
+| [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
+| [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 ## Monotonic Stack
 |  |
 | ------- |
