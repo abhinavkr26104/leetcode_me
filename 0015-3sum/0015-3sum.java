@@ -1,42 +1,55 @@
+import java.util.*;
+
 class Solution {
-    public List<List<Integer>> threeSum(int[] nums) 
-    {
+    public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
-        List<List<Integer>> triplets = new ArrayList<>();
-        
-        int n = nums.length;
-        
-        for (int i = 0; i < n - 2; i++) 
-        {
-            if (i > 0 && nums[i] == nums[i - 1]) 
-            {
-                continue; // Skip duplicate nums[i]
-            }
-            
-            int left = i + 1;
-            int right = n - 1;
-            
-            while (left < right) {
-                int total = nums[i] + nums[left] + nums[right];
-                if (total == 0) {
-                    triplets.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    left++;
-                    right--;
-                    
-                    while (left < right && nums[left] == nums[left - 1]) {
-                        left++; // Skip duplicate nums[left]
-                    }
-                    while (left < right && nums[right] == nums[right + 1]) {
-                        right--; // Skip duplicate nums[right]
-                    }
-                } else if (total < 0) {
-                    left++;
-                } else {
-                    right--;
-                }
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        for (int i = 0; i < nums.length - 2; i++) {
+
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+
+            int target = -nums[i];
+
+            List<List<Integer>> pairs = twoSum(nums, i + 1, target);
+
+            for (List<Integer> pair : pairs) {
+                List<Integer> temp = new ArrayList<>();
+                temp.add(nums[i]);
+                temp.add(pair.get(0));
+                temp.add(pair.get(1));
+                result.add(temp);
             }
         }
-        
-        return triplets;
+
+        return result;
     }
+
+    public List<List<Integer>> twoSum(int[] n, int start, int t) {
+        List<List<Integer>> res = new ArrayList<>();
+
+        int i = start;
+        int j = n.length - 1;
+
+        while (i < j) {
+            int sum = n[i] + n[j];
+
+            if (sum > t) {
+                j--;
+            } else if (sum < t) {
+                i++;
+            } else {
+                res.add(Arrays.asList(n[i], n[j]));
+
+                i++;
+                j--;
+
+                while (i < j && n[i] == n[i - 1]) i++;
+                while (i < j && n[j] == n[j + 1]) j--;
+            }
+        }
+
+        return res;
     }
+}
