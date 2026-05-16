@@ -1,14 +1,15 @@
 class Solution {
-    public int change(int amount, int[] coins) {
-        int[] dp = new int[amount + 1];
-        dp[0] = 1;
+    public int change(int target,int[] nums) {
+int[] count=new int[target+1];
+       count[0] = 1;
+       for (int c : nums) {
+for (int x = 1; x <= target; x++) {
 
-        for (int coin : coins) {
-            for (int a = coin; a <= amount; a++) {
-                dp[a] += dp[a - coin];
-            }
-        }
-        
-        return dp[amount];
+if (x-c >= 0) {
+count[x] += count[x-c];
+}
+}
+} 
+return count[target];
     }
 }
