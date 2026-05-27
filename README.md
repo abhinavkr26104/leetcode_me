@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
+| [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
