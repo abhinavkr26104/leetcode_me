@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/abhinavkr26104/leetcode_me/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhinavkr26104/leetcode_me/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/abhinavkr26104/leetcode_me/tree/master/0072-edit-distance) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
