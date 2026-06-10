@@ -23,7 +23,7 @@ class Solution {
         long hours = 0;
 
         for (int p : piles)
-            hours += (p + k - 1) / k;
+            hours += (int)Math.ceil((double)p / k);
 
         return hours <= h;
     }
