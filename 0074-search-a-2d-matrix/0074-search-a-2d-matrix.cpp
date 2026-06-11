@@ -4,22 +4,23 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        int l = 0, r = m * n - 1;
+        int N = m * n;
 
-        while (l <= r) {
-            int mid = l + (r - l) / 2;
+        int x = -1;
 
-            int row = mid / n;
-            int col = mid % n;
+        int z = 1;
+        while (z < N) z *= 2;
 
-            if (matrix[row][col] == target)
-                return true;
-            else if (matrix[row][col] < target)
-                l = mid + 1;
-            else
-                r = mid - 1;
+        for (int b = z; b >= 1; b /= 2) {
+            while (x + b < N &&
+                   matrix[(x + b) / n][(x + b) % n] < target) {
+                x += b;
+            }
         }
 
-        return false;
+        int idx = x + 1;
+
+        return idx < N &&
+               matrix[idx / n][idx % n] == target;
     }
 };
