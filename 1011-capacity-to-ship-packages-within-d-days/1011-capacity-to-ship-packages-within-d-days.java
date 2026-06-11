@@ -1,5 +1,5 @@
 class Solution {
-      public int shipWithinDays(int[] weights, int days) {
+    public int shipWithinDays(int[] weights, int days) {
         int l = 0, r = 0;
 
         for (int w : weights) {
@@ -7,33 +7,31 @@ class Solution {
             r += w;
         }
 
-        int x = l - 1;
+        while (l < r) {
+            int mid = l + (r - l) / 2;
 
-        int z = 1;
-        while (z <= r - l + 1)
-            z *= 2;
-
-        for (int b = z; b >= 1; b /= 2) {
-            while (!canShip(weights, x + b, days))
-                x += b;
+            if (canShip(weights, mid, days))
+                r = mid;
+            else
+                l = mid + 1;
         }
 
-        return x + 1;
+        return l;
     }
+
     boolean canShip(int[] weights, int cap, int days) {
-    int d = 1;
-    int curWeight = 0;
+        int d = 1;
+        int curWeight = 0;
 
-    for (int w : weights) {
-        if (curWeight + w > cap) {
-            d++;
-            curWeight = 0;
+        for (int w : weights) {
+            if (curWeight + w > cap) {
+                d++;
+                curWeight = 0;
+            }
+
+            curWeight += w;
         }
 
-        curWeight += w;
+        return d <= days;
     }
-
-    return d <= days;
-}
-
 }
