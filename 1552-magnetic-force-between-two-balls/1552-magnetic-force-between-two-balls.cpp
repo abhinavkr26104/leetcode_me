@@ -12,7 +12,7 @@ public:
         while (z <= r - l + 1) z *= 2;
 
         for (int b = z; b >= 1; b /= 2) {
-            while (x + b <= r && canPlace(p, m, x + b))
+            while (canPlace(p, m, x + b))
                 x += b;
         }
 
