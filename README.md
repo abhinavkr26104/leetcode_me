@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhinavkr26104/leetcode_me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhinavkr26104/leetcode_me/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhinavkr26104/leetcode_me/tree/master/0198-house-robber) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinavkr26104/leetcode_me/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/abhinavkr26104/leetcode_me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavkr26104/leetcode_me/tree/master/0374-guess-number-higher-or-lower) |
