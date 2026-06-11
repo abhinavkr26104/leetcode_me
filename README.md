@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhinavkr26104/leetcode_me/tree/master/0854-making-a-large-island) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinavkr26104/leetcode_me/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhinavkr26104/leetcode_me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
