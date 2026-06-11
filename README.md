@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhinavkr26104/leetcode_me/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/abhinavkr26104/leetcode_me/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhinavkr26104/leetcode_me/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/abhinavkr26104/leetcode_me/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinavkr26104/leetcode_me/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/1448-maximum-69-number) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavkr26104/leetcode_me/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/abhinavkr26104/leetcode_me/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhinavkr26104/leetcode_me/tree/master/0875-koko-eating-bananas) |
@@ -449,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavkr26104/leetcode_me/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
