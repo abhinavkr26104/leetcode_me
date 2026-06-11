@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/abhinavkr26104/leetcode_me/tree/master/0875-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhinavkr26104/leetcode_me/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/abhinavkr26104/leetcode_me/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union Find
