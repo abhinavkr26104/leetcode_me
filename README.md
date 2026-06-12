@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/abhinavkr26104/leetcode_me/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/abhinavkr26104/leetcode_me/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/abhinavkr26104/leetcode_me/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
