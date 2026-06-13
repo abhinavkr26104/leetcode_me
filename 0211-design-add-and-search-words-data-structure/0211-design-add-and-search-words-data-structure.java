@@ -4,6 +4,9 @@ class WordDictionary {
     boolean[] end = new boolean[250001];
     int nodes = 0;
 
+    public WordDictionary() {
+    }
+
     public void addWord(String word) {
         int node = 0;
 
@@ -20,28 +23,32 @@ class WordDictionary {
     }
 
     public boolean search(String word) {
-        return dfs(word, 0, 0);
+        return dfs(word.toCharArray(), 0, 0);
     }
 
-    boolean dfs(String word, int idx, int node) {
-        if (idx == word.length())
-            return end[node];
+    boolean dfs(char[] word, int idx, int node) {
+        for (int i = idx; i < word.length; i++) {
 
-        char ch = word.charAt(idx);
+            if (word[i] == '.') {
 
-        if (ch != '.') {
-            int nxt = trie[node][ch - 'a'];
+                for (int c = 0; c < 26; c++) {
+                    int nxt = trie[node][c];
 
-            return nxt != 0 && dfs(word, idx + 1, nxt);
+                    if (nxt != 0 && dfs(word, i + 1, nxt))
+                        return true;
+                }
+
+                return false;
+            }
+
+            int nxt = trie[node][word[i] - 'a'];
+
+            if (nxt == 0)
+                return false;
+
+            node = nxt;
         }
 
-        for (int c = 0; c < 26; c++) {
-            int nxt = trie[node][c];
-
-            if (nxt != 0 && dfs(word, idx + 1, nxt))
-                return true;
-        }
-
-        return false;
+        return end[node];
     }
 }
