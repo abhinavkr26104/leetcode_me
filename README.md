@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/1170-shortest-common-supersequence) |
 ## Two Pointers
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhinavkr26104/leetcode_me/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavkr26104/leetcode_me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhinavkr26104/leetcode_me/tree/master/1552-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0076-minimum-window-substring) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -497,4 +500,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
