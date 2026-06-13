@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/1170-shortest-common-supersequence) |
+| [1392-longest-happy-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -512,4 +514,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
