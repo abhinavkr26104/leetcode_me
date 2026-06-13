@@ -1,17 +1,14 @@
 class WordDictionary {
 
     int[][] trie = new int[250001][26];
-boolean[] end = new boolean[250001];
+    boolean[] end = new boolean[250001];
     int nodes = 0;
-
-    public WordDictionary() {
-    }
 
     public void addWord(String word) {
         int node = 0;
 
-        for (char ch : word.toCharArray()) {
-            int c = ch - 'a';
+        for (int i = 0; i < word.length(); i++) {
+            int c = word.charAt(i) - 'a';
 
             if (trie[node][c] == 0)
                 trie[node][c] = ++nodes;
@@ -35,10 +32,7 @@ boolean[] end = new boolean[250001];
         if (ch != '.') {
             int nxt = trie[node][ch - 'a'];
 
-            if (nxt == 0)
-                return false;
-
-            return dfs(word, idx + 1, nxt);
+            return nxt != 0 && dfs(word, idx + 1, nxt);
         }
 
         for (int c = 0; c < 26; c++) {
