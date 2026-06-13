@@ -1,54 +1,72 @@
 class WordDictionary {
 
-    int[][] trie = new int[250001][26];
-    boolean[] end = new boolean[250001];
-    int nodes = 0;
+    private final TrieNode root;
 
     public WordDictionary() {
+        this.root = new TrieNode();
     }
 
     public void addWord(String word) {
-        int node = 0;
-
-        for (int i = 0; i < word.length(); i++) {
-            int c = word.charAt(i) - 'a';
-
-            if (trie[node][c] == 0)
-                trie[node][c] = ++nodes;
-
-            node = trie[node][c];
+        TrieNode curr = root;
+        for (char c : word.toCharArray()) {
+            int index = c - 'a';
+            if (curr.charMap[index] == null) {
+                curr.charMap[index] = new TrieNode();
+            }
+            curr = curr.charMap[index];
         }
-
-        end[node] = true;
+        curr.isWord = true;
     }
 
     public boolean search(String word) {
-        return dfs(word.toCharArray(), 0, 0);
+        return search(word.toCharArray(), root, 0);
     }
-
-    boolean dfs(char[] word, int idx, int node) {
-        for (int i = idx; i < word.length; i++) {
-
-            if (word[i] == '.') {
-
-                for (int c = 0; c < 26; c++) {
-                    int nxt = trie[node][c];
-
-                    if (nxt != 0 && dfs(word, i + 1, nxt))
+    
+    private boolean search(char[] word, TrieNode node, int index) {
+        for (int i = index; i < word.length; i++) {
+            char c = word[i];
+            if (c == '.') {
+                // wild card, continue to next for all possible chars
+                for (TrieNode next : node.charMap) {
+                    if (next == null) {
+                        // no word exists at this node, skip
+                        continue;
+                    }
+                    
+                    if (search(word, next, i + 1)) {
                         return true;
+                    }
                 }
-
+                
                 return false;
             }
-
-            int nxt = trie[node][word[i] - 'a'];
-
-            if (nxt == 0)
+            
+            // c is lower case English letter
+            int j = c - 'a';
+            if (node.charMap[j] == null) {
                 return false;
-
-            node = nxt;
+            }
+            
+            node = node.charMap[j];
         }
+        
+        return node.isWord;
+    }
 
-        return end[node];
+    private static class TrieNode {
+        TrieNode[] charMap;
+        boolean isWord;
+
+        TrieNode() {
+            this.charMap = new TrieNode[26];
+            this.isWord = false;
+        }
     }
 }
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary obj = new WordDictionary();
+ * obj.addWord(word);
+ * boolean param_2 = obj.search(word);
+ */
