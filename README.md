@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhinavkr26104/leetcode_me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhinavkr26104/leetcode_me/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/abhinavkr26104/leetcode_me/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
