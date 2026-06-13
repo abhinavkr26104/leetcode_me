@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/abhinavkr26104/leetcode_me/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/abhinavkr26104/leetcode_me/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0063-unique-paths-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/abhinavkr26104/leetcode_me/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/abhinavkr26104/leetcode_me/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/abhinavkr26104/leetcode_me/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/abhinavkr26104/leetcode_me/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/abhinavkr26104/leetcode_me/tree/master/0072-edit-distance) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/abhinavkr26104/leetcode_me/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/abhinavkr26104/leetcode_me/tree/master/0274-h-index) |
