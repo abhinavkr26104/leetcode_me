@@ -1,40 +1,19 @@
 class Solution {
-    public int strStr(String text, String pat) {
+    public int strStr(String haystack, String needle) {
 
-        int n = text.length();
-        int m = pat.length();
+        int n = haystack.length();
+        int m = needle.length();
 
-        if (m == 0)
-            return 0;
+        for (int i = 0; i <= n - m; i++) {
 
-        // Calculate LPS of pattern
-        int[] lps = new int[m];
+            int j = 0;
 
-        for (int i = 1; i < m; i++) {
-
-            int j = lps[i - 1];
-
-            while (j > 0 && pat.charAt(i) != pat.charAt(j))
-                j = lps[j - 1];
-
-            if (pat.charAt(i) == pat.charAt(j))
-                j++;
-
-            lps[i] = j;
-        }
-
-        int j = 0;
-
-        for (int i = 0; i < n; i++) {
-
-            while (j > 0 && text.charAt(i) != pat.charAt(j))
-                j = lps[j - 1];
-
-            if (text.charAt(i) == pat.charAt(j))
+            while (j < m &&
+                   haystack.charAt(i + j) == needle.charAt(j))
                 j++;
 
             if (j == m)
-                return i - m + 1;
+                return i;
         }
 
         return -1;
