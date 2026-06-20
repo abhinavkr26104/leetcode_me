@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavkr26104/leetcode_me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhinavkr26104/leetcode_me/tree/master/1552-magnetic-force-between-two-balls) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
+| [1840-maximum-building-height](https://github.com/abhinavkr26104/leetcode_me/tree/master/1840-maximum-building-height) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinavkr26104/leetcode_me/tree/master/1917-maximum-average-pass-ratio) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/1448-maximum-69-number) |
+| [1840-maximum-building-height](https://github.com/abhinavkr26104/leetcode_me/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/1922-count-good-numbers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhinavkr26104/leetcode_me/tree/master/1552-magnetic-force-between-two-balls) |
+| [1840-maximum-building-height](https://github.com/abhinavkr26104/leetcode_me/tree/master/1840-maximum-building-height) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Depth-First Search
 |  |
