@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/abhinavkr26104/leetcode_me/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhinavkr26104/leetcode_me/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/abhinavkr26104/leetcode_me/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhinavkr26104/leetcode_me/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/abhinavkr26104/leetcode_me/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/abhinavkr26104/leetcode_me/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/abhinavkr26104/leetcode_me/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinavkr26104/leetcode_me/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0078-subsets) |
