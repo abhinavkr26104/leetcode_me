@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavkr26104/leetcode_me/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhinavkr26104/leetcode_me/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
@@ -494,12 +496,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavkr26104/leetcode_me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavkr26104/leetcode_me/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
