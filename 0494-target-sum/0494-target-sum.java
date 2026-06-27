@@ -1,35 +1,26 @@
 class Solution {
+
+    int ans = 0;
+
     public int findTargetSumWays(int[] nums, int target) {
-        int sum = 0;
-        for (int num : nums) {
-            sum += num;
-        }
 
-        if (target > sum || target < -sum || (target + sum) % 2 != 0) {
-            return 0;
-        }
+        dfs(0, 0, nums, target);
 
-        int ds = (target + sum) / 2;
-        return countSubsets(nums, ds);
+        return ans;
     }
 
-    public int countSubsets(int[] arr, int target) {
-        int n = arr.length;
-        int[][] dp = new int[n + 1][target + 1];
+    void dfs(int index, int sum, int[] nums, int target) {
 
-        for (int i = 0; i <= n; i++) {
-            dp[i][0] = 1;
+        if (index == nums.length) {
+
+            if (sum == target)
+                ans++;
+
+            return;
         }
 
-        for (int i = 1; i <= n; i++) {
-            for (int sum = 0; sum <= target; sum++) {
-                dp[i][sum] = dp[i - 1][sum];
-                if (arr[i - 1] <= sum) {
-                    dp[i][sum] += dp[i - 1][sum - arr[i - 1]];
-                }
-            }
-        }
+        dfs(index + 1, sum + nums[index], nums, target);
 
-        return dp[n][target];
+        dfs(index + 1, sum - nums[index], nums, target);
     }
 }
