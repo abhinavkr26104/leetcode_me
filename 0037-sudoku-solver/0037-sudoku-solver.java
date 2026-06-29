@@ -1,56 +1,56 @@
 class Solution {
 
     public void solveSudoku(char[][] board) {
-        backtrack(board);
+        dfs(board);
     }
 
-    private boolean backtrack(char[][] board) {
+    boolean dfs(char[][] board) {
 
         for (int row = 0; row < 9; row++) {
+
             for (int col = 0; col < 9; col++) {
 
-                // Find an empty cell
                 if (board[row][col] == '.') {
 
-                    // Try digits 1 to 9
-                    for (char num = '1'; num <= '9'; num++) {
+                    for (char ch = '1'; ch <= '9'; ch++) {
 
-                        if (isValid(board, row, col, num)) {
-                            board[row][col] = num;
+                        if (isValid(board, row, col, ch)) {
 
-                            // Recurse
-                            if (backtrack(board)) {
+                            board[row][col] = ch;
+
+                            if (dfs(board))
                                 return true;
-                            }
 
-                            // Undo (backtrack)
                             board[row][col] = '.';
                         }
                     }
 
-                    // No valid number → trigger backtracking
                     return false;
                 }
             }
         }
 
-        // No empty cells left → solved
         return true;
     }
 
-    private boolean isValid(char[][] board, int row, int col, char num) {
+    boolean isValid(char[][] board, int row, int col, char ch) {
 
         for (int i = 0; i < 9; i++) {
-            // Check row
-            if (board[row][i] == num) return false;
 
-            // Check column
-            if (board[i][col] == num) return false;
+            // Row
+            if (board[row][i] == ch)
+                return false;
 
-            // Check 3×3 sub-box
-            int boxRow = 3 * (row / 3) + i / 3;
-            int boxCol = 3 * (col / 3) + i % 3;
-            if (board[boxRow][boxCol] == num) return false;
+            // Column
+            if (board[i][col] == ch)
+                return false;
+
+            // 3×3 Box
+            int r = 3 * (row / 3) + i / 3;
+            int c = 3 * (col / 3) + i % 3;
+
+            if (board[r][c] == ch)
+                return false;
         }
 
         return true;
