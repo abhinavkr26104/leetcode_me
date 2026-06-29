@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0191-number-of-1-bits) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhinavkr26104/leetcode_me/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
