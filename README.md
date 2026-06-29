@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/abhinavkr26104/leetcode_me/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/abhinavkr26104/leetcode_me/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0509-fibonacci-number) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/abhinavkr26104/leetcode_me/tree/master/0282-expression-add-operators) |
 | [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/abhinavkr26104/leetcode_me/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/abhinavkr26104/leetcode_me/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
