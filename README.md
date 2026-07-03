@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/abhinavkr26104/leetcode_me/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhinavkr26104/leetcode_me/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/abhinavkr26104/leetcode_me/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abhinavkr26104/leetcode_me/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/abhinavkr26104/leetcode_me/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/abhinavkr26104/leetcode_me/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhinavkr26104/leetcode_me/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavkr26104/leetcode_me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhinavkr26104/leetcode_me/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0338-counting-bits) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
