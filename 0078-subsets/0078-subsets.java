@@ -1,29 +1,23 @@
 class Solution {
-
-    List<List<Integer>> ans = new ArrayList<>();
-    List<Integer> list = new ArrayList<>();
-
     public List<List<Integer>> subsets(int[] nums) {
 
+        List<List<Integer>> ans = new ArrayList<>();
 
-        dfs(0, nums);
+        int n = nums.length;
+
+        for (int mask = 0; mask < (1 << n); mask++) {
+
+            List<Integer> list = new ArrayList<>();
+
+            for (int i = 0; i < n; i++) {
+
+                if ((mask & (1 << i)) != 0)
+                    list.add(nums[i]);
+            }
+
+            ans.add(list);
+        }
 
         return ans;
-    }
-
-    void dfs(int start, int[] nums) {
-
-        ans.add(new ArrayList<>(list));
-
-        for (int i = start; i < nums.length; i++) {
-
-           
-
-            list.add(nums[i]);
-
-            dfs(i + 1, nums);
-
-            list.remove(list.size() - 1);
-        }
     }
 }
