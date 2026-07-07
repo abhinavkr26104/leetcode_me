@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/abhinavkr26104/leetcode_me/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/abhinavkr26104/leetcode_me/tree/master/1009-complement-of-base-10-integer) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/abhinavkr26104/leetcode_me/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
