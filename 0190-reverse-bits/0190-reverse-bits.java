@@ -1,24 +1,12 @@
 class Solution {
     public int reverseBits(int n) {
+        int rev = 0;
 
-        int left = 31;
-        int right = 0;
-
-        while (left > right) {
-
-            int leftBit = (n >> left) & 1;
-            int rightBit = (n >> right) & 1;
-
-            if (leftBit != rightBit) {
-
-                n ^= (1 << left);
-                n ^= (1 << right);
-            }
-
-            left--;
-            right++;
+        for(int i=0; i<32;i++){
+            rev = (rev << 1) | (n & 1);
+            n = n >> 1;
         }
 
-        return n;
+        return rev;
     }
 }
