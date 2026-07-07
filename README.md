@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhinavkr26104/leetcode_me/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
