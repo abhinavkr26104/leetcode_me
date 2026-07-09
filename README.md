@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
