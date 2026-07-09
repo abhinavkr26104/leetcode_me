@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 ## Counting Sort
 |  |
 | ------- |
