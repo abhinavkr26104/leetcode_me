@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhinavkr26104/leetcode_me/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/abhinavkr26104/leetcode_me/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/abhinavkr26104/leetcode_me/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/abhinavkr26104/leetcode_me/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abhinavkr26104/leetcode_me/tree/master/0570-managers-with-at-least-5-direct-reports) |
