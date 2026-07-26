@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/abhinavkr26104/leetcode_me/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinavkr26104/leetcode_me/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0464-can-i-win](https://github.com/abhinavkr26104/leetcode_me/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/1448-maximum-69-number) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/abhinavkr26104/leetcode_me/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/abhinavkr26104/leetcode_me/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhinavkr26104/leetcode_me/tree/master/1552-magnetic-force-between-two-balls) |
