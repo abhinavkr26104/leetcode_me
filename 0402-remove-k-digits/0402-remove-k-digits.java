@@ -13,7 +13,6 @@ class Solution {
             st.push(ch);
         }
 
-        // Remove remaining digits from the end
         while (k > 0) {
             st.pop();
             k--;
@@ -27,7 +26,6 @@ class Solution {
 
         sb.reverse();
 
-        // Remove leading zeros
         while (sb.length() > 0 && sb.charAt(0) == '0') {
             sb.deleteCharAt(0);
         }
