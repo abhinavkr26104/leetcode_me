@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/abhinavkr26104/leetcode_me/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/abhinavkr26104/leetcode_me/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/abhinavkr26104/leetcode_me/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/abhinavkr26104/leetcode_me/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0212-word-search-ii) |
+| [0224-basic-calculator](https://github.com/abhinavkr26104/leetcode_me/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/abhinavkr26104/leetcode_me/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abhinavkr26104/leetcode_me/tree/master/0282-expression-add-operators) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/abhinavkr26104/leetcode_me/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
