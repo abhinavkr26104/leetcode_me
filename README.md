@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhinavkr26104/leetcode_me/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/abhinavkr26104/leetcode_me/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/1922-count-good-numbers) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/abhinavkr26104/leetcode_me/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0394-decode-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/abhinavkr26104/leetcode_me/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
 ## Simulation
