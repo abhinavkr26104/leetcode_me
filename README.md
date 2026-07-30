@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/abhinavkr26104/leetcode_me/tree/master/0704-binary-search) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/abhinavkr26104/leetcode_me/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/abhinavkr26104/leetcode_me/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/abhinavkr26104/leetcode_me/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
 ## Rolling Hash
@@ -731,4 +734,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhinavkr26104/leetcode_me/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
