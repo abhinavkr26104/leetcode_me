@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhinavkr26104/leetcode_me/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/abhinavkr26104/leetcode_me/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/abhinavkr26104/leetcode_me/tree/master/0901-online-stock-span) |
 ## Counting Sort
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0901-online-stock-span](https://github.com/abhinavkr26104/leetcode_me/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
 ## Rolling Hash
 |  |
@@ -714,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/abhinavkr26104/leetcode_me/tree/master/0464-can-i-win) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/abhinavkr26104/leetcode_me/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
