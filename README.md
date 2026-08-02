@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavkr26104/leetcode_me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/abhinavkr26104/leetcode_me/tree/master/1552-magnetic-force-between-two-balls) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/1170-shortest-common-supersequence) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhinavkr26104/leetcode_me/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhinavkr26104/leetcode_me/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhinavkr26104/leetcode_me/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 | [1753-path-with-minimum-effort](https://github.com/abhinavkr26104/leetcode_me/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinavkr26104/leetcode_me/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -745,9 +749,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 <!---LeetCode Topics End-->
