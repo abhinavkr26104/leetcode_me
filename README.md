@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/abhinavkr26104/leetcode_me/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinavkr26104/leetcode_me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhinavkr26104/leetcode_me/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinavkr26104/leetcode_me/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/abhinavkr26104/leetcode_me/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/abhinavkr26104/leetcode_me/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/abhinavkr26104/leetcode_me/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abhinavkr26104/leetcode_me/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0212-word-search-ii) |
+| [0542-01-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/abhinavkr26104/leetcode_me/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/abhinavkr26104/leetcode_me/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
