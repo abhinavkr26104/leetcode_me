@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/abhinavkr26104/leetcode_me/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abhinavkr26104/leetcode_me/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhinavkr26104/leetcode_me/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhinavkr26104/leetcode_me/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhinavkr26104/leetcode_me/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/abhinavkr26104/leetcode_me/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinavkr26104/leetcode_me/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/abhinavkr26104/leetcode_me/tree/master/0203-remove-linked-list-elements) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhinavkr26104/leetcode_me/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhinavkr26104/leetcode_me/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhinavkr26104/leetcode_me/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/abhinavkr26104/leetcode_me/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -763,4 +766,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhinavkr26104/leetcode_me/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
