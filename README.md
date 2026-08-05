@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0946-validate-stack-sequences) |
 | [0967-minimum-falling-path-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/abhinavkr26104/leetcode_me/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/abhinavkr26104/leetcode_me/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhinavkr26104/leetcode_me/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavkr26104/leetcode_me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 ## Probability and Statistics
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
