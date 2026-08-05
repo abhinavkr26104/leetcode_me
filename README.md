@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhinavkr26104/leetcode_me/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abhinavkr26104/leetcode_me/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/abhinavkr26104/leetcode_me/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhinavkr26104/leetcode_me/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/abhinavkr26104/leetcode_me/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0874-walking-robot-simulation](https://github.com/abhinavkr26104/leetcode_me/tree/master/0874-walking-robot-simulation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhinavkr26104/leetcode_me/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/abhinavkr26104/leetcode_me/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhinavkr26104/leetcode_me/tree/master/0424-longest-repeating-character-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhinavkr26104/leetcode_me/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/abhinavkr26104/leetcode_me/tree/master/0721-accounts-merge) |
 | [0981-time-based-key-value-store](https://github.com/abhinavkr26104/leetcode_me/tree/master/0981-time-based-key-value-store) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/abhinavkr26104/leetcode_me/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/abhinavkr26104/leetcode_me/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhinavkr26104/leetcode_me/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/abhinavkr26104/leetcode_me/tree/master/0867-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
