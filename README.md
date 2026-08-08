@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/abhinavkr26104/leetcode_me/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhinavkr26104/leetcode_me/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/abhinavkr26104/leetcode_me/tree/master/1170-shortest-common-supersequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhinavkr26104/leetcode_me/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhinavkr26104/leetcode_me/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 ## Probability and Statistics
 |  |
