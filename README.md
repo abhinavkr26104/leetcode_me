@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/abhinavkr26104/leetcode_me/tree/master/1048-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhinavkr26104/leetcode_me/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinavkr26104/leetcode_me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinavkr26104/leetcode_me/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhinavkr26104/leetcode_me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/abhinavkr26104/leetcode_me/tree/master/1044-longest-duplicate-substring) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhinavkr26104/leetcode_me/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinavkr26104/leetcode_me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1425-constrained-subsequence-sum](https://github.com/abhinavkr26104/leetcode_me/tree/master/1425-constrained-subsequence-sum) |
 ## Probability and Statistics
 |  |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhinavkr26104/leetcode_me/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinavkr26104/leetcode_me/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhinavkr26104/leetcode_me/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinavkr26104/leetcode_me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
